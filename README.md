@@ -19,9 +19,9 @@ Passionate Full-Stack Developer specializing in **Node.js** and **TypeScript**. 
 ---
 
 ## 🌱 Learning Journey  
-🇷🇺 **Russian Language** ![Russian Flag](https://img.shields.io/badge/-%E2%AD%90%EF%B8%8F-white?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MDAgNjAwIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJtMCwwaDkwMHY2MDBIMHoiLz48cGF0aCBmaWxsPSIjMDAzOThDQiIgZD0ibTAsMjAwaDkwMHYyMDBIMHoiLz48cGF0aCBmaWxsPSIjRkMwMDM2IiBkPSJtMCw0MDBoOTAwdjIwMEgweiIvPjwvc3ZnPg==)  
+**Russian Language** <img src="https://flagcdn.com/w20/ru.png" srcset="https://flagcdn.com/w40/ru.png 2x" width="20" alt="Russia">  
 - Daily Duolingo streak: 120+ days  
-- Reading Russian tech blogs  
+- Reading Russian tech blogs   
 
 ---
 
