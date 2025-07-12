@@ -34,7 +34,7 @@ Passionate Full-Stack Developer specializing in **Node.js** and **TypeScript**. 
 - Interactive artist timelines  
 - Responsive gallery system  
 
-![ArtConnect Screenshot]([https://i.imgur.com/qvtAwiE.jpg](https://imgur.com/a/oSSFhsD))  
+<img width="1879" height="794" alt="Artconnect-image" src="https://github.com/user-attachments/assets/b7827232-340b-41ee-8e2e-9e6fe924f21e" />
 
 ---
 
