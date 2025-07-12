@@ -1,8 +1,10 @@
 # Hi there 👋, I'm Alexis Helm
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-helm/)
-[![GitHub PRs](https://img.shields.io/badge/My_PRs-View_All-2CA5E0?style=for-the-badge&logo=github)](https://github.com/pulls?q=is%3Apr+author%3ALydoww+)  
-[![GitHub Followers](https://img.shields.io/github/followers/Lydoww?style=for-the-badge)](https://github.com/Lydoww)  
+
+[![GitHub PRs](https://img.shields.io/badge/My_PRs-View_All-2CA5E0?style=for-the-badge&logo=github)](https://github.com/pulls?q=is%3Apr+author%3ALydoww+)
+
+[![GitHub Followers](https://img.shields.io/github/followers/Lydoww?style=for-the-badge)](https://github.com/Lydoww)
 
 ---
 
@@ -50,4 +52,4 @@ Passionate Full-Stack Developer specializing in **Node.js** and **TypeScript**. 
 
 ## 💻 Open Source Contributions  
 ### [Money Manager Ecosystem](https://github.com/DeveloperMastery)  
-[![PR Badge](https://img.shields.io/badge/View_My_Contributions-2CA5E0?style=for-the-badge&logo=git)](https://github.com/pulls?q=is%3Apr+author%3ALydoww+)  
+[![PR Badge](https://img.shields.io/badge/Contributions-View_My_PR-2CA5E0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeveloperMastery/money-manager-app/pulls?q=is%3Apr+author%3ALydoww)
