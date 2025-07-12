@@ -51,5 +51,5 @@ Passionate Full-Stack Developer specializing in **Node.js** and **TypeScript**. 
 ---
 
 ## 💻 Open Source Contributions  
-### [Money Manager Ecosystem](https://github.com/DeveloperMastery)  
-[![PR Badge](https://img.shields.io/badge/Contributions-View_My_PR-2CA5E0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeveloperMastery/money-manager-app/pulls?q=is%3Apr+author%3ALydoww)
+### [![DeveloperMastery](https://img.shields.io/badge/DeveloperMastery-Organization-2CA5E0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeveloperMastery)  
+[![PR Badge](https://img.shields.io/badge/View_My_Contributions-2CA5E0?style=for-the-badge&logo=git)](https://github.com/pulls?q=is%3Apr+author%3ALydoww+org%3ADeveloperMastery)  
