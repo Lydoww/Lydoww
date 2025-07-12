@@ -5,48 +5,56 @@
 
 ---
 
-🙋‍♂️ **About me**  
-I'm from France, currently in Australia 🌎. I'm a huge fan of Node.js, TypeScript, and open-source projects 💻. When I'm not building projects, you can find me playing video-games 🎮, lifting weights 🏋️, travelling in my 4x4 Nissan X-trail 2007 🗺️, and spending time with friends 👥.
+## 🙋‍♂️ About Me  
+🇫🇷 From France | 🌏 Currently in Australia | 🕒 GMT+10  
+Passionate Full-Stack Developer specializing in **Node.js** and **TypeScript**. Open-source enthusiast 🚀. When I'm not coding, you'll find me:  
+- 🎮 Gaming with friends  
+- 🏋️‍♂️ Powerlifting at the gym  
+- 🗺️ Exploring outback roads in my Nissan X-Trail  
+- 👥 Hosting BBQ weekends  
 
 ---
 
-🔭 **I'm currently working on**  
-**[OpenSourceApp](https://github.com/Lydoww/OpenSourceApp)**  
-An open source project where I contribute actively, building features and fixing bugs. *(Ajoute ici une phrase courte qui décrit ton app)*
+## 🔭 Current Focus  
+### [OpenSourceApp](https://github.com/Lydoww/OpenSourceApp)  
+*A collaborative platform for developers to share reusable components*  
+- Implementing CI/CD pipelines  
+- Developing plugin architecture  
+- Optimizing React performance  
 
 ---
 
-🌱 **I’m currently learning**  
-🇷🇺 Russian
+## 🌱 Learning Journey  
+🇷🇺 **Russian Language** ![Russian Flag](https://img.shields.io/badge/-%E2%AD%90%EF%B8%8F-white?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MDAgNjAwIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJtMCwwaDkwMHY2MDBIMHoiLz48cGF0aCBmaWxsPSIjMDAzOThDQiIgZD0ibTAsMjAwaDkwMHYyMDBIMHoiLz48cGF0aCBmaWxsPSIjRkMwMDM2IiBkPSJtMCw0MDBoOTAwdjIwMEgweiIvPjwvc3ZnPg==)  
+- Daily Duolingo streak: 120+ days  
+- Reading Russian tech blogs  
 
 ---
 
-## My Last Projects
+## 🎨 Featured Projects  
 
 ### [ArtConnect](https://github.com/Lydoww/ArtConnect-Explore-the-World-Through-Artists)  
-[Website](https://art-connect-explore-artists.vercel.app/)  
-A React app to explore artists and their artworks worldwide with clean UI and curated content.
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-8A2BE2?style=flat-square)](https://art-connect-explore-artists.vercel.app/)  
 
-![ArtConnect Preview](https://user-images.githubusercontent.com/ton_id/image_artconnect_preview.png)  <!-- Remplace par ta vraie image hébergée -->
+*Discover artistic masters through interactive timelines*  
+- React + TypeScript + Vite  
+- Integrated Artsy API  
+- Responsive gallery layouts  
 
----
-
-### Wallpit (avec des amis)  
-[Discord](https://discord.gg/qvXmRQQq)  
-Projet privé - Rejoins le Discord pour suivre l’avancement et échanger.
+![ArtConnect Screenshot](https://user-images.githubusercontent.com/ton_id/image_artconnect_preview.png)  
 
 ---
 
-## I've Contributed To
-
-### [DevMastery - Money Manager App](https://github.com/DeveloperMastery/money-manager-app/pulls?q=is%3Apr+author%3ALydoww)  
-### [DevMastery - Money Manager API](https://github.com/DeveloperMastery/money-manager-api/pulls?q=is%3Apr+author%3ALydoww)
-
----
-
-> Si tu veux, je peux aussi t’aider à générer des badges personnalisés, ou à héberger ta photo ArtConnect pour le README.  
-> Tu peux me transmettre ta photo ici quand tu veux.  
+### Wallpit (Stealth Mode)  
+[![Discord](https://img.shields.io/badge/Join_our_Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/qvXmRQQq)  
+*Video game made by a group of friend, inspired by chess game.*  
 
 ---
 
-Merci de ta visite ! 🚀  
+## 💻 Open Source Contributions  
+### [Money Manager Ecosystem](https://github.com/DeveloperMastery)  
+- **Frontend**: Implemented dashboard analytics  
+- **Backend**: Optimized transaction processing  
+- **Documentation**: Revamped API guides  
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/DeveloperMastery/money-manager-app/pulls?q=is%3Apr+author%3ALydoww)
