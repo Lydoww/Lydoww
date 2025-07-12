@@ -46,7 +46,3 @@ Passionate Full-Stack Developer specializing in **Node.js** and **TypeScript**. 
 ## 💻 Open Source Contributions  
 ### [![DeveloperMastery](https://img.shields.io/badge/DeveloperMastery-Organization-2CA5E0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeveloperMastery)  
 [![PR Badge](https://img.shields.io/badge/View_My_Contributions-2CA5E0?style=for-the-badge&logo=git)](https://github.com/pulls?q=is%3Apr+author%3ALydoww+org%3ADeveloperMastery)  
-
-
-## 📊 Contribution Breakdown
-![Activity Pie Chart](https://quickchart.io/chart?cht=p&chs=150x150&chd=t:73,17,10&chl=Commits|PRs|Reviews&colors=5865F2,2CA5E0,57F287)
