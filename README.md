@@ -18,13 +18,6 @@ Passionate Full-Stack Developer specializing in **Node.js** and **TypeScript**. 
 
 ---
 
-## 🌱 Learning Journey  
-**Russian Language** <img src="https://flagcdn.com/w20/ru.png" srcset="https://flagcdn.com/w40/ru.png 2x" width="20" alt="Russia">  
-- Daily Duolingo streak: 120+ days  
-- Reading Russian tech blogs   
-
----
-
 ## 🎨 Latest Projects  
 
 ### [ArtConnect](https://github.com/Lydoww/ArtConnect-Explore-the-World-Through-Artists)  
