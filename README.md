@@ -1,8 +1,14 @@
-# 🏄‍♂️ Forrest Knight
+# 🏄‍♂️ Alexis Helm
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Digital Craftsman`**
+  
+🇫🇷 From France | 🌏 Currently in Australia | 🕒 GMT+10  
+Passionate Full-Stack Developer specializing in **Node.js** and **TypeScript**. Open-source enthusiast 🚀. When I'm not coding, you'll find me:  
+- 🎮 Gaming with friends  
+- 🏋️‍♂️ Powerlifting at the gym  
+- 🗺️ Exploring outback roads in my Nissan X-Trail  
+- 🛹 Landing hardflips in skateparks worldwide  
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 600k subscribers.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
@@ -15,21 +21,7 @@ I'm an indie full-stack developer and content creator building my version of the
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
----
 
-
-🏄‍♂️ Alexis Helm
-
-Digital Craftsman 
-  
-🇫🇷 From France | 🌏 Currently in Australia | 🕒 GMT+10  
-Passionate Full-Stack Developer specializing in **Node.js** and **TypeScript**. Open-source enthusiast 🚀. When I'm not coding, you'll find me:  
-- 🎮 Gaming with friends  
-- 🏋️‍♂️ Powerlifting at the gym  
-- 🗺️ Exploring outback roads in my Nissan X-Trail  
-- 🛹 Landing hardflips in skateparks worldwide  
-
----
 
 ## 🎨 Latest Projects  
 
