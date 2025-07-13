@@ -25,6 +25,8 @@ Passionate Full-Stack Developer specializing in **Node.js** and **TypeScript**. 
 
 #
 
+---
+
 ## 🎨 Latest Projects  
 
 ### [ArtConnect](https://github.com/Lydoww/ArtConnect-Explore-the-World-Through-Artists)  
