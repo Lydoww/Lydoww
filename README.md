@@ -27,30 +27,15 @@ Passionate Full-Stack Developer specializing in **Node.js** and **TypeScript**. 
 
 ---
 
-## 🎨 Latest Projects  
+#
 
-### [ArtConnect](https://github.com/Lydoww/ArtConnect-Explore-the-World-Through-Artists)  
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-8A2BE2?style=for-the-badge)](https://art-connect-explore-artists.vercel.app/)  
+### 📊 Stats
 
-*Discover artistic masters through interactive timelines*  
-- React + TailwindCSS + Vite  
-- Integrated RijkMuseum API  
-- Interactive artist timelines  
-- Responsive gallery system  
+![Lydoww's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lydoww&show_icons=true&theme=gruvbox)
 
-<img width="1879" height="794" alt="Artconnect-image" src="https://github.com/user-attachments/assets/b7827232-340b-41ee-8e2e-9e6fe924f21e" />
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
----
-
-### Wallpit  
-[![Discord](https://img.shields.io/badge/Join_our_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/qvXmRQQq)  
-*Chess-inspired strategy game (Private Beta)*  
-- MicroService Architecture  
-- Real-time multiplayer logic  
-- Custom chess variants  
-- Progressive Web App  
-
----
+#
 
 ## 💻 Open Source Contributions  
 ### [![DeveloperMastery](https://img.shields.io/badge/DeveloperMastery-Organization-2CA5E0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeveloperMastery)  
