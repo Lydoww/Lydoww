@@ -32,8 +32,13 @@ Passionate Full-Stack Developer specializing in **Node.js** and **TypeScript**. 
 ![Lydoww's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lydoww&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
 #
+
+---
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Lydoww&column=7)
+
+---
 
 ## 💻 Open Source Contributions  
 ### [![DeveloperMastery](https://img.shields.io/badge/DeveloperMastery-Organization-2CA5E0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeveloperMastery)  
