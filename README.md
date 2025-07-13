@@ -1,14 +1,7 @@
-# Hi there 👋, I'm Alexis Helm
+🏄‍♂️ Alexis Helm
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-helm/)
-
-[![GitHub PRs](https://img.shields.io/badge/My_PRs-View_All-2CA5E0?style=for-the-badge&logo=github)](https://github.com/pulls?q=is%3Apr+author%3ALydoww+)
-
-[![GitHub Followers](https://img.shields.io/github/followers/Lydoww?style=for-the-badge)](https://github.com/Lydoww)
-
----
-
-## 🙋‍♂️ About Me  
+Digital Craftsman 
+  
 🇫🇷 From France | 🌏 Currently in Australia | 🕒 GMT+10  
 Passionate Full-Stack Developer specializing in **Node.js** and **TypeScript**. Open-source enthusiast 🚀. When I'm not coding, you'll find me:  
 - 🎮 Gaming with friends  
