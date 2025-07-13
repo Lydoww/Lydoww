@@ -1,6 +1,10 @@
 # 🏄‍♂️ Alexis Helm
 
 **`Digital Craftsman`**
+
+🌐 Portfolio : [alexis-helm.netlify.app](https://alexis-helm.netlify.app/)
+💼 LinkedIn : [linkedin.com/in/alexis-helm]([https://www.linkedin.com/in/alexis-helm/](https://www.linkedin.com/in/alexis-helm/))
+📫 Contact : alexis94340@gmail.com  
   
 🇫🇷 From France | 🌏 Currently in Australia | 🕒 GMT+10  
 Passionate Full-Stack Developer specializing in **Node.js** and **TypeScript**. Open-source enthusiast 🚀. When I'm not coding, you'll find me:  
