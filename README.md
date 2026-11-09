@@ -2,7 +2,6 @@
 
 **`Digital Craftsman`**
 
-🌐 Portfolio : [alexis-helm.netlify.app](https://alexis-helm.netlify.app/)  
 💼 LinkedIn : [linkedin.com/in/alexis-helm](https://www.linkedin.com/in/alexis-helm/)  
 📫 Contact : alexis94340@gmail.com 
   
